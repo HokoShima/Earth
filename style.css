@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Corinthia:wght@700&family=Poor+Story&family=Shadows+Into+Light&display=swap');
+body{
+    margin: 0px;
+}
+a{
+    color: #A3E4D7;
+}
+.earth{
+    font-family: "Comic Sans MS";
+    background-color: black;
+    color: #A3E4D7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    background-color:black;
+    color: #19cf7a;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 265px;
+}
+.alexandrite{
+    font-family: 'Poor Story', cursive;
+    background-color: white;
+    color: purple;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.redberyl{
+    font-family: 'Poor Story', cursive;
+    background-color: black;
+    color: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.benitoite{
+    font-family: 'Poor Story', cursive;
+    background-color: white;
+    color: rgb(76, 76, 196);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.cpr{
+    font-family: "Comic Sans MS";
+    background-color: black;
+    color: #A3E4D7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
